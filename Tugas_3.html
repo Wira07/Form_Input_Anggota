@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Tugas_3.css">
+</head>
+
+<body>
+    <div class="container">
+        <form>
+            <h1 class="satu">Input Data Anggota</h1>
+            <div class="login">
+                <label for="Kode_Anggota">Kode_Anggota</label>
+                <input type="text" name="Kode_Anggota" placeholder="Kode_Anggota">
+            </div>
+            <div class="login">
+                <label for="NIM">NIM</label>
+                <input type="number" name="NIM" placeholder="NIM">
+            </div>
+            <div class="login">
+                <label for="Nama_Lengkap">Nama_Lengkap</label>
+                <input type="text" name="Nama_Lengkap" placeholder="Nama_Lengkap">
+            </div>
+            <div class="login">
+                <label for="Prodi">Prodi</label>
+                <select name="Prodi">
+                    <option value="" selected>Pilih Program</option>
+                    <option value="TI-S1">Teknik Informatika - S1</option>
+                    <option value="SI-S1">Sistem Informasi - S1</option>
+                    <option value="DKV-S1">Desain Komunikasi Visual - S1</option>
+                    <option value="Sipil-S1">Teknik Sipil - S1</option>
+                    <option value="MI-D3">Manajemen Informatika - S1</option>
+                </select>
+            </div>
+            <div class="login">
+                <label for="Kelas">Kelas</label>
+                <input type="text" name="Kelas" placeholder="Kelas">
+            </div>
+            <div class="Login">
+                <label for="jk">Jenis Kelamin</label>
+                <input type="radio" name="jk" value="jk">Laki Laki
+                <input type="radio" name="jk" value="jk">Perempuan
+            </div>
+            <div class="login">
+                <label for="Alamat">Alamat</label>
+                <textarea name="Alamat" cols="30" rows="10" placeholder="Alamat"></textarea>
+            </div>
+            <div class="login">
+                <label for="Nomor_Telepon">Nomor_Telepon</label>
+                <input type="tel" name="Nomor_Telepon" placeholder="Nomor_Telepon">
+            </div>
+            <div class="login">
+                <button type="submit">Submit</button>
+                <button type="reset">Reset</button>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
