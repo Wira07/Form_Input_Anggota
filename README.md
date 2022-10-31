@@ -3,13 +3,6 @@ Tugas Pweb 1
 ### Hi there, I'm Wira Sukma Saputra 👋
 
 ### and here is my stats
-<p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
-  <a href="https://github.com/Wira07/Wira07.github.io">Wira07.github.io</a>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
-</p>
-
 <!--
 **SatriaAPN/SatriaAPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
