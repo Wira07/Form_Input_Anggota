@@ -1,6 +1,6 @@
 # Form_Input_Anggota
 Tugas Pweb 1
-### Hi there, I'm Satria Aluh Perwira Nusa 👋
+### Hi there, I'm Wira Sukma Saputra 👋
 
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
